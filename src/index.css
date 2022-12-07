@@ -1,0 +1,18 @@
+.my_calender .Calendar__monthYearContainer{
+    font-size: 18px;
+}
+
+
+.Calendar__weekDay{
+    font-size: 17px;
+}
+
+
+
+.Calendar__weekDays{
+    background-color: blue !important;
+}
+
+.Calendar__weekDay{
+    
+}
